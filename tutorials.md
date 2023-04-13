@@ -1,3 +1,3 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. 
-It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.
- I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+Review of Set up Git article by Deep Patel:
+
+The article demonstrates how to install Git and sign in to GitHub with HTTPS or SSH. Additionally, it offers the ability to use GitHub CLI, GitHub Desktop, or Git from the command line. This article does a good job of covering all the prerequisites for using Git and GitHub, such as installation, configuration, and authentication. Its lack of examples or explanations of how to use Git for typical activities like committing changes, branching, merging, or resolving conflicts,is something that could be improved.
